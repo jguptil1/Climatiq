@@ -1,11 +1,10 @@
-# Climatiq
+## Climatiq
 Stores Python Notebooks, Excel Workbooks, and Tableau Workbooks pertaining to Climatiq Research
 
 # Extract Folder: 
   API Calls > "Climatiq Calls.ipynb"
   - This will take you to the python code used to make request to the API. 
   - Structured as a Python Notebook
-  - 
   Other Folders within this folder have scratch work or specific documentation by Cliamtiq
 
 # Transform Folder:
